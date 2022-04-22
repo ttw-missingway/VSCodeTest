@@ -1,0 +1,15 @@
+/Users/missingway/Desktop/aspnet-practice/bin/Debug/net5.0/aspnet-practice.deps.json
+/Users/missingway/Desktop/aspnet-practice/bin/Debug/net5.0/aspnet-practice.runtimeconfig.json
+/Users/missingway/Desktop/aspnet-practice/bin/Debug/net5.0/aspnet-practice.runtimeconfig.dev.json
+/Users/missingway/Desktop/aspnet-practice/bin/Debug/net5.0/aspnet-practice.dll
+/Users/missingway/Desktop/aspnet-practice/bin/Debug/net5.0/ref/aspnet-practice.dll
+/Users/missingway/Desktop/aspnet-practice/bin/Debug/net5.0/aspnet-practice.pdb
+/Users/missingway/Desktop/aspnet-practice/obj/Debug/net5.0/aspnet-practice.csprojAssemblyReference.cache
+/Users/missingway/Desktop/aspnet-practice/obj/Debug/net5.0/aspnet-practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/missingway/Desktop/aspnet-practice/obj/Debug/net5.0/aspnet-practice.AssemblyInfoInputs.cache
+/Users/missingway/Desktop/aspnet-practice/obj/Debug/net5.0/aspnet-practice.AssemblyInfo.cs
+/Users/missingway/Desktop/aspnet-practice/obj/Debug/net5.0/aspnet-practice.csproj.CoreCompileInputs.cache
+/Users/missingway/Desktop/aspnet-practice/obj/Debug/net5.0/aspnet-practice.dll
+/Users/missingway/Desktop/aspnet-practice/obj/Debug/net5.0/ref/aspnet-practice.dll
+/Users/missingway/Desktop/aspnet-practice/obj/Debug/net5.0/aspnet-practice.pdb
+/Users/missingway/Desktop/aspnet-practice/obj/Debug/net5.0/aspnet-practice.genruntimeconfig.cache

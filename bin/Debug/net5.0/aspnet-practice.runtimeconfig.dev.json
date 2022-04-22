@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/missingway/.dotnet/store/|arch|/|tfm|",
+      "/Users/missingway/.nuget/packages"
+    ]
+  }
+}
